@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Trương Quang Tín"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/nigo.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An interesting Blog about: technology, story, travel...."
   location         : "VietNam"
   email            : "quangtin170899@gmail.com"
@@ -300,4 +300,3 @@ defaults:
       values:
       layout: single
       author_profile: true
-      
