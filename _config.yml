@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Trương Quang Tín"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "An interesting Blog about: technology, story, travel...."
+  location         : "VietNam"
   email            :
   links:
     - label: "Email"
@@ -137,7 +137,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url:"https://www.facebook.com/tin.quang.9404"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
